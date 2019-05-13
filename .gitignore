@@ -1,0 +1,4 @@
+## Ignored Files
+.settings/*
+.classpath
+.project
