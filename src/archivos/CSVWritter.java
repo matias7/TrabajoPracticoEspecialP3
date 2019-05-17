@@ -6,7 +6,8 @@ import java.io.IOException;
 
 public class CSVWritter {
 
-	public static void main(String[] args) {
+	public CSVWritter()
+	{
 		BufferedWriter bw = null;
 		try {
 			File file = new File("[PATH-AL-ARCHIVO]/salida.csv");
